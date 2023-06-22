@@ -1,2 +1,2 @@
-# Data Structures
-WashU CSE 247 projects and labs
+# Data Structures Labs
+WashU CSE 247 labs 
